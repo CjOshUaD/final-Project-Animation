@@ -1,0 +1,5 @@
+# final-Project-Animation
+// W - UP DIRECTION
+// S -DOWN DIRECTION
+// A - LEFT DIRECTION
+// D - RIGHT DIRECTION

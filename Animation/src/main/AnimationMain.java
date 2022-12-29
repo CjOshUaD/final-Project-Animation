@@ -1,4 +1,7 @@
 package main;
+//Dadia, Christian Joshua P.
+//BSIT 2-A Final Project
+//LUFFY ANIMATION
 
 import javax.swing.JFrame;
 
